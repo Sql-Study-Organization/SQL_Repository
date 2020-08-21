@@ -53,7 +53,7 @@ CASE문을 많이 사용한다.
 단순 CASE문으로 예를 들자면,
 성별 코드를 변환해보면,
 
-# 단순 CASE로 성별 코드를 남자, 여자로 변환하기
+1)단순 CASE로 성별 코드를 남자, 여자로 변환하기
 my sql> SELECT column명 AS "코드",   
 CASE column명   
   WHEN 1 THEN '남자'   
