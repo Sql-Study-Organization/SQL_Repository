@@ -10,9 +10,9 @@
 ## 2장 테이블에서 데이터 검색
    [4강 Hello World 실행하기](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/2%EC%9E%A5%20%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90%EC%84%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B2%80%EC%83%89/04%EA%B0%95%20Hello%20World%20%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0.md)
    
-   [5강 테이블 구조 참조하기](#)
+   [5강 테이블 구조 참조하기](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/2%EC%9E%A5%20%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90%EC%84%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B2%80%EC%83%89/05%EA%B0%95%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%EA%B5%AC%EC%A1%B0%20%EC%B0%B8%EC%A1%B0%ED%95%98%EA%B8%B0.md)
    
-   [6강 검색 조건 지정하기](#)   
+   [6강 검색 조건 지정하기](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/2%EC%9E%A5%20%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90%EC%84%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B2%80%EC%83%89/06%EA%B0%95.%20%EA%B2%80%EC%83%89%20%EC%A1%B0%EA%B1%B4%20%EC%A7%80%EC%A0%95%ED%95%98%EA%B8%B0.md)   
    
    [7강 조건 조합하기](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/2%EC%9E%A5%20%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90%EC%84%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B2%80%EC%83%89/07%EA%B0%95%20%EC%A1%B0%EA%B1%B4%20%EC%A1%B0%ED%95%A9%ED%95%98%EA%B8%B0.md)
    
