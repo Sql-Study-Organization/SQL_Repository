@@ -60,6 +60,7 @@ CASE column명
   WHEN 2 THEN '여자'   
   ELSE '미지정'   
 END AS "성별" FROM table명;   
+
 단순 CASE문에서 CASE 뒤에는 대상을 적고 WHEN 뒤에는 값을 적는다.
 
 3. CASE를 사용할 경우 주의사항
