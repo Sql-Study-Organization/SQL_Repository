@@ -20,9 +20,9 @@
    
 
 ## 3장 정렬과 연산
-   [9강 정렬 - ORDER BY](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/3%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%A7%E1%86%AF%E1%84%80%E1%85%AA%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB/09%EA%B0%95.md)
+   [9강 정렬 - ORDER BY](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/3%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%A7%E1%86%AF%E1%84%80%E1%85%AA%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB/09%EA%B0%95%20%EC%A0%95%EB%A0%AC%20-%20ORDER%20BY.md)
    
-   [10강 복수의 열을 지정해 정렬하기](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/3%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%A7%E1%86%AF%E1%84%80%E1%85%AA%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB/10%EA%B0%95.md)
+   [10강 복수의 열을 지정해 정렬하기](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/3%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%A7%E1%86%AF%E1%84%80%E1%85%AA%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB/10%EA%B0%95%20%EB%B3%B5%EC%88%98%EC%9D%98%20%EC%97%B4%EC%9D%84%20%EC%A7%80%EC%A0%95%ED%95%B4%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.md)
    
    [11강 결과 행 제한하기 - LIMIT](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/3%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%A7%E1%86%AF%E1%84%80%E1%85%AA%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB/11%EA%B0%95%20%EA%B2%B0%EA%B3%BC%20%ED%96%89%20%EC%A0%9C%ED%95%9C%ED%95%98%EA%B8%B0%20-%20LIMIT.md)   
    
