@@ -30,9 +30,9 @@
    
    [13강 문자열 연산](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/3%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%A7%E1%86%AF%E1%84%80%E1%85%AA%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB/13%EA%B0%95%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%97%B0%EC%82%B0.md)   
    
-   [14강 날짜 연산](#)
+   [14강 날짜 연산](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/3%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%A7%E1%86%AF%E1%84%80%E1%85%AA%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB/14%EA%B0%95%20%EB%82%A0%EC%A7%9C%20%EC%97%B0%EC%82%B0.md)
    
-   [15강 CASE 문으로 데이터 변환하기](#)
+   [15강 CASE 문으로 데이터 변환하기](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/3%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%A7%E1%86%AF%E1%84%80%E1%85%AA%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB/15%EA%B0%95%20CASE%EB%AC%B8%EC%9C%BC%EB%A1%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.md)
    
    
 ## 4장 데이터의 추가, 삭제, 갱신
