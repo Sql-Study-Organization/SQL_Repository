@@ -42,13 +42,13 @@
    
    [18강 데이터 갱신하기 - UPDATE](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/4%EC%9E%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%EC%B6%94%EA%B0%80%2C%EC%82%AD%EC%A0%9C%2C%EA%B0%B1%EC%8B%A0/18%EA%B0%95.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B0%B1%EC%8B%A0%ED%95%98%EA%B8%B0%20-%20UPDATE.md)
    
-   [19강 물리삭제와 논리 삭제](#)
+   [19강 물리삭제와 논리 삭제](https://github.com/Sql-Study-Organization/SQL_Repository/blob/990752e30d4b4e2f14151f0d6cfe9a48fca3a4fa/4%EC%9E%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%EC%B6%94%EA%B0%80%2C%EC%82%AD%EC%A0%9C%2C%EA%B0%B1%EC%8B%A0/19%EA%B0%95%20%EB%AC%BC%EB%A6%AC%EC%82%AD%EC%A0%9C%EC%99%80%20%EB%85%BC%EB%A6%AC%EC%82%AD%EC%A0%9C.md)
    
    
 ## 5장 집계와 서브쿼리
-   [20강 행 개수 구하기 - COUNT](#)
+   [20강 행 개수 구하기 - COUNT](https://github.com/Sql-Study-Organization/SQL_Repository/blob/990752e30d4b4e2f14151f0d6cfe9a48fca3a4fa/5%EC%9E%A5%20%EC%A7%91%EA%B3%84%EC%99%80%20%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC/20%EA%B0%95%20%ED%96%89%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0%20-%20COUNT.md)
    
-   [21강 COUNT 이외의 집계함수](#)
+   [21강 COUNT 이외의 집계함수](https://github.com/Sql-Study-Organization/SQL_Repository/blob/990752e30d4b4e2f14151f0d6cfe9a48fca3a4fa/5%EC%9E%A5%20%EC%A7%91%EA%B3%84%EC%99%80%20%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC/21%EA%B0%95%20COUNT%20%EC%9D%B4%EC%99%B8%EC%9D%98%20%EC%A7%91%EA%B3%84%ED%95%A8%EC%88%98.md)
    
    [22강 그룹화 - GROUP BY](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/5%EC%9E%A5%20%EC%A7%91%EA%B3%84%EC%99%80%20%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC/22%EA%B0%95%20%EA%B7%B8%EB%A3%B9%ED%99%94-GROUP%20BY.md)   
    
