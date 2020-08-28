@@ -36,11 +36,11 @@
    
    
 ## 4장 데이터의 추가, 삭제, 갱신
-   [16강 행 추가하기 - INSERT](#)
+   [16강 행 추가하기 - INSERT](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/4%EC%9E%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%EC%B6%94%EA%B0%80%2C%EC%82%AD%EC%A0%9C%2C%EA%B0%B1%EC%8B%A0/16%EA%B0%95.%20%ED%96%89%20%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0%20-%20INSERT.md)
    
-   [17강 삭제하기 - DELETE](#)   
+   [17강 삭제하기 - DELETE](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/4%EC%9E%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%EC%B6%94%EA%B0%80%2C%EC%82%AD%EC%A0%9C%2C%EA%B0%B1%EC%8B%A0/17%EA%B0%95.%20%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0%20-%20DELETE.md)   
    
-   [18강 데이터 갱신하기 - UPDATE](#)
+   [18강 데이터 갱신하기 - UPDATE](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/4%EC%9E%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%EC%B6%94%EA%B0%80%2C%EC%82%AD%EC%A0%9C%2C%EA%B0%B1%EC%8B%A0/18%EA%B0%95.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B0%B1%EC%8B%A0%ED%95%98%EA%B8%B0%20-%20UPDATE.md)
    
    [19강 물리삭제와 논리 삭제](#)
    
@@ -50,14 +50,14 @@
    
    [21강 COUNT 이외의 집계함수](#)
    
-   [22강 그룹화 - GROUP BY](#)   
+   [22강 그룹화 - GROUP BY](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/5%EC%9E%A5%20%EC%A7%91%EA%B3%84%EC%99%80%20%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC/22%EA%B0%95%20%EA%B7%B8%EB%A3%B9%ED%99%94-GROUP%20BY.md)   
    
-   [23강 서브쿼리](#)
+   [23강 서브쿼리](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/5%EC%9E%A5%20%EC%A7%91%EA%B3%84%EC%99%80%20%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC/23%EA%B0%95%20%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC.md)
    
-   [24강 상관 서브쿼리](#)
+   [24강 상관 서브쿼리](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/5%EC%9E%A5%20%EC%A7%91%EA%B3%84%EC%99%80%20%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC/24%EA%B0%95%20%EC%83%81%EA%B4%80%20%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC.md)
    
  ## 6장 데이터베이스 객제 작성과 삭제
-   [25강 데이터베이스 객체](#)
+   [25강 데이터베이스 객체](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/6%EC%9E%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%9D%EC%B2%B4%20%EC%9E%91%EC%84%B1%EA%B3%BC%20%EC%82%AD%EC%A0%9C/25%EA%B0%95%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%9D%EC%B2%B4.md)
    
    [26강 테이블 작성 삭제 변경](#)
    
