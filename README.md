@@ -63,25 +63,25 @@
    
    [27강 제약](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/6%EC%9E%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%9D%EC%B2%B4%20%EC%9E%91%EC%84%B1%EA%B3%BC%20%EC%82%AD%EC%A0%9C/27%EA%B0%95%20%EC%A0%9C%EC%95%BD.md)   
    
-   [28강 인덱스 구조](#)
+   [28강 인덱스 구조](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/6%EC%9E%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%9D%EC%B2%B4%20%EC%9E%91%EC%84%B1%EA%B3%BC%20%EC%82%AD%EC%A0%9C/28%EA%B0%95%20%EC%9D%B8%EB%8D%B1%EC%8A%A4%20%EA%B5%AC%EC%A1%B0.md)
    
-   [29강 인덱스 작성과 삭제](#)   
+   [29강 인덱스 작성과 삭제](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/6%EC%9E%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%9D%EC%B2%B4%20%EC%9E%91%EC%84%B1%EA%B3%BC%20%EC%82%AD%EC%A0%9C/29%EA%B0%95%20%EC%9D%B8%EB%8D%B1%EC%8A%A4%20%EC%9E%91%EC%84%B1%EA%B3%BC%20%EC%82%AD%EC%A0%9C.md)   
    
-   [30강 뷰 작성과 삭제](#)
+   [30강 뷰 작성과 삭제](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/6%EC%9E%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%9D%EC%B2%B4%20%EC%9E%91%EC%84%B1%EA%B3%BC%20%EC%82%AD%EC%A0%9C/30%EA%B0%95.%20%EB%B7%B0%20%EC%9E%91%EC%84%B1%EA%B3%BC%20%EC%82%AD%EC%A0%9C.md)
    
  ## 7장 복수의 테이블 다루기
-   [31강 집합 연산](#)
+   [31강 집합 연산](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/7%EC%9E%A5%20%EB%B3%B5%EC%88%98%EC%9D%98%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%EB%8B%A4%EB%A3%A8%EA%B8%B0/31%EA%B0%95%20%EC%A7%91%ED%95%A9%20%EC%97%B0%EC%82%B0.md)
    
    [32강 테이블 결합](#)
    
    [33강 관계형 모델](#)
    
  ## 8장 데이터베이스 설계
-   [34강 데이터베이스 설계](#)
+   [34강 데이터베이스 설계](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/8%EC%9E%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%84%A4%EA%B3%84/34%EA%B0%95.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%84%A4%EA%B3%84.md)
    
-   [35강 정규화](#)
+   [35강 정규화](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/8%EC%9E%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%84%A4%EA%B3%84/35%EA%B0%95%20%EC%A0%95%EA%B7%9C%ED%99%94.md)
    
-   [36강 제약](#)   
+   [36강 제약](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/8%EC%9E%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%84%A4%EA%B3%84/36%EA%B0%95%20%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)   
       
    
    
