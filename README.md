@@ -72,9 +72,9 @@
  ## 7장 복수의 테이블 다루기
    [31강 집합 연산](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/7%EC%9E%A5%20%EB%B3%B5%EC%88%98%EC%9D%98%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%EB%8B%A4%EB%A3%A8%EA%B8%B0/31%EA%B0%95%20%EC%A7%91%ED%95%A9%20%EC%97%B0%EC%82%B0.md)
    
-   [32강 테이블 결합](#)
+   [32강 테이블 결합](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/7%EC%9E%A5%20%EB%B3%B5%EC%88%98%EC%9D%98%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%EB%8B%A4%EB%A3%A8%EA%B8%B0/32%EA%B0%95%20%ED%85%8C%EC%9D%B4%EB%B8%94%EA%B2%B0%ED%95%A9.md)
    
-   [33강 관계형 모델](#)
+   [33강 관계형 모델](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/7%EC%9E%A5%20%EB%B3%B5%EC%88%98%EC%9D%98%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%EB%8B%A4%EB%A3%A8%EA%B8%B0/33%EA%B0%95%20%EA%B4%80%EA%B3%84%ED%98%95%EB%AA%A8%EB%8D%B8.md)
    
  ## 8장 데이터베이스 설계
    [34강 데이터베이스 설계](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/8%EC%9E%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%84%A4%EA%B3%84/34%EA%B0%95.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%84%A4%EA%B3%84.md)
