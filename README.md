@@ -81,7 +81,7 @@
    
    [35강 정규화](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/8%EC%9E%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%84%A4%EA%B3%84/35%EA%B0%95%20%EC%A0%95%EA%B7%9C%ED%99%94.md)
    
-   [36강 제약](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/8%EC%9E%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%84%A4%EA%B3%84/36%EA%B0%95%20%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)   
+   [36강 트랜잭션](https://github.com/Sql-Study-Organization/SQL_Repository/blob/master/8%EC%9E%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%84%A4%EA%B3%84/36%EA%B0%95%20%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)   
       
    
    
